@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-<h1 align="center">Olá, eu sou o JP💻</h1>
+<h1>Olá, eu sou o JP💻</h1>
 
-<p align="center">
+<p>
   💡 Estudante do curso Técnico em Informática na <strong>EEEP Dep. José Maria Melo</strong><br>
   🖥️ Apaixonado por tecnologia, desenvolvimento de software e inovação<br>
   🚀 Em constante aprendizado e evolução na área de TI
