@@ -15,7 +15,7 @@
 
 - 🔭 Atualmente estudando **Desenvolvimento Web e Arquitetura de Software**
 - 📚 Experiência com projetos em **Python, HTML, CSS, JavaScript e PHP**
-- 🔌 Interesse em **APIs, Banco de Dados, Cloud e Cybersegurança**
+- 🔌 Interesse em **APIs, Banco de Dados, Cloud, Cybersegurança e desenvolvimento back-end**
 - 🧩 Participante ativo de projetos escolares e eventos técnicos como o **Profissional Day** e **Feiras de Inovação**
 
 ---
