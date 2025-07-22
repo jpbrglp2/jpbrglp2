@@ -38,12 +38,24 @@
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp2&show_icons=true&theme=github_dark" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp2&layout=compact&theme=github_dark" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jpbrglp2&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp2&layout=compact&theme=github_dark" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
