@@ -44,7 +44,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jpbrglp2&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub" width="400px" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp2&layout=compact&theme=github_dark" alt="Linguagens mais usadas" width="400px" />
+<img src="https://raw.githubusercontent.com/jpbrglp2/jpbrglp2/main/github-metrics.svg" width="400px" />
+
 
 </div>
 
