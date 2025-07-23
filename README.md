@@ -44,7 +44,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jpbrglp2&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub" width="400px" />
 <br/>
-<img src="https://raw.githubusercontent.com/jpbrglp2/jpbrglp2/main/github-metrics.svg" width="400px" />
+<img src="https://github-profile-trophy.vercel.app/?username=jpbrglp2&theme=darkhub&no-bg=true" width="400px"/>
+
 
 
 </div>
